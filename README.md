@@ -13,7 +13,7 @@ At the next step the selected sentences were translated from Armenian to English
 |number of examples|all|strict paraphrases|non-paraphrases|loose paraphrases|
 |  :---: |     :---:    | :---:  |          :---:          | :---:  |
 |Train   | 4233         |1339   |2683               | 211 |
-|Test    | 2325         |1021   |448                  | 213 |
+|Test    | 1682         |1021   |448                  | 213 |
 
 The created test set was translated to Russian and English to test the results on Paraphraser.ru Train and [MRPC](https://www.microsoft.com/en-us/download/details.aspx?id=52398) Train. Also Paraphraser.ru and MRPC train sets were translated into Armenian.
 
