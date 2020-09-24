@@ -1,4 +1,4 @@
-# arpa-paraphrase-corpus
+# ARPA-paraphrase-corpus
 
 We provide a paraphrase detection model for Armenian sentences which obtains state-of-the-art result.
 
